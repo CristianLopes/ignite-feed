@@ -1,5 +1,5 @@
-# ignite-feed
-This repository has been used to create a "Feed" using React. [This is a challenge inside the #Rocketseat Course]
+# ignite-feed [Challenge #Rocketseat]
+This repository has been used to create a "Feed" using React. 
 
 
 **Summary**
